@@ -1,0 +1,20 @@
+// Edit this file to update projects. h = building height, w = width (desktop px).
+export const projects = [
+  { t: 'Connecting Dots', u: 'https://www.connectingdots.dev/', c: '#4f7f86', h: 390, w: 122, k: 'Full-stack web app',
+    d: 'Built from front end to back end using AI tools, with clean architecture and a proper, tidy file structure throughout.',
+    g: ['Full stack', 'Clean architecture', 'AI-assisted'] },
+  { t: 'Link My Ride', u: 'https://link-my-ride.vercel.app/', c: '#587a4f', h: 320, w: 104, k: 'Full-stack app with admin panel',
+    d: 'A complete site with an admin panel on Supabase. Real users and a client place orders on it, and it is still running today.',
+    g: ['Supabase', 'Admin panel', 'Live in production'] },
+  { t: 'Hotel Shuktara', u: 'https://hotelshuktara.com/', c: '#6d7f8c', h: 420, w: 128, k: 'Hotel ordering system',
+    d: 'The full system, built end to end. Real customers place their orders through the website.',
+    g: ['Full system', 'Online orders', 'Real customers'] },
+  { t: 'Netsphere BD', u: 'https://netspherebd.com/', c: '#8f8466', h: 345, w: 108, k: 'Company website',
+    d: 'The full UI for a company, designed and built from the first screen to the last.', g: ['UI build', 'Company site'] },
+  { t: 'PayStation', u: 'http://paystation.com.bd/', c: '#2f6b66', h: 400, w: 112, k: 'Payments website',
+    d: 'The full UI for a licensed payment service operator in Bangladesh.', g: ['UI build', 'Fintech'] },
+  { t: 'Syntrix IT', u: 'https://www.syntrixit.com/', c: '#5b6f7a', h: 310, w: 100, k: 'My own agency',
+    d: 'The site for my digital creative agency, built by me from the UI down.', g: ['UI build', 'Agency'] },
+  { t: 'MSHL BD', u: 'https://mshlbd.com/', c: '#7a8f6a', h: 365, w: 110, k: 'Full-stack build',
+    d: 'A full-stack project, built across the front end and the back end.', g: ['Full stack'] },
+]
